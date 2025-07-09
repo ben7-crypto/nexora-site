@@ -198,10 +198,12 @@ import Link from "next/link";
     Get started with Nexora today — it’s free, fast, and frictionless.
   </p>
   <a
-    href="#"
-    className="mt-8 inline-block bg-white text-blue-600 font-semibold px-8 py-3 rounded-xl shadow-lg hover:bg-gray-100 transition"
-  >
-    Get Started Now
+  href="#"
+  className="mt-8 inline-block bg-white text-blue-600 font-semibold px-8 py-3 rounded-xl shadow-lg hover:bg-gray-100 transition"
+>
+  Get Started Now
+</a>
+
   </a>
 </div>
 <footer className="bg-gray-900 text-white py-10 px-4 sm:px-6 lg:px-8">
